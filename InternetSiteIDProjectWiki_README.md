@@ -8,11 +8,11 @@
 
 #### Details
 
-[Internet-Site-ID-Project](InternetSiteIDProjectWiki_README.md#Internet-Site-ID-Project) - Explain what is the project? What is the best security for the websites.  
-[Security](InternetSiteIDProjectWiki_README.md#Security) - Read Security Problems.  
-[Developer](InternetSiteIDProjectWiki_README.md#Developer) - john3825  
-[ER](InternetSiteIDProjectWiki_README.md#ER) - Enhanced Reading.  
-[Volunteers](InternetSiteIDProjectWiki_README.md#Volunteers) - Volunteers for our project.  
+[Internet-Site-ID-Project](InternetSiteIDProjectWiki_README.md#user-content-internet-site-id-project2) - Explain what is the project? What is the best security for the websites.  
+[Security](InternetSiteIDProjectWiki_README.md#security) - Read Security Problems.  
+[Developer](InternetSiteIDProjectWiki_README.md#developer) - john3825  
+[ER](InternetSiteIDProjectWiki_README.md#er) - Enhanced Reading.  
+[Volunteers](InternetSiteIDProjectWiki_README.md#volunteers) - Volunteers for our project.  
 
 Internet Site ID Project
 ------------------------
