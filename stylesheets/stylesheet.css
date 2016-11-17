@@ -47,7 +47,7 @@ table {
 /*******************************************************************************
 CustomTheme Styles
 *******************************************************************************/
-input #SiteID {
+input#SiteID {
   border: 0px none black;
   float: left;
   display: block;
