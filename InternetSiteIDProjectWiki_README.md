@@ -29,7 +29,7 @@ There are more than 200 million viruses on the internet breaching securities. Th
 Developer
 ---------
 
-The project is currently developed by john3825(SYSOP) Needed For Server. 
+The project is currently developed by john3825(SYSOP) )**[![john3825(SYSOP)](https://img.shields.io/badge/GitHub_john3825-Author-green.svg)](https://john3825.github.io/)Needed For Server. 
 
 ER - Enhanced Readings
 ----------------------
@@ -46,3 +46,7 @@ Internet Site ID Project is recruiting volunteers for the project. Please post m
 ```
 '"Site-ID: 0+pTpjZeXcGtyx2u8TbSzdnf1Vc7cDJDhLfqxSffne+GWIaGqiQ5UoQWELas6gG8mVDGc53AcnEhXttgx2L28VesdZ4KPmzLLF7K9VvVBk7iAlhSaqDL8RHP8/tlbnwXxctwkvowFG9ieIHF0jSxRSDEkjByCfcdJwV5+W1ztr6GJP+1Lurez7b8RB3zy3of4X1UtSzKHfjsPEZw0MmHsJnHe4WECHGhdfKaPkZVa4Zw71HqTzj/iTkh67IsIxrp3PVWpKYB/JJT1B4AaIk0EBBesQnc/B1cMkDwlBxmVlGOoh8enWdaw1lPs9pi5uJqqlC1ktbnZzRhx/nNteb11A=="'
 ```
+[![Download internet-site-id-project](https://img.shields.io/badge/GitHub_InteretSiteIDProject-Project-green.svg)](https://github.com/john3825/internet-site-id-project/)[![Download internet-site-id-project](https://img.shields.io/badge/GitHub_InteretSiteIDProject-Home-blue.svg)](https://john3825.github.io/internet-site-id-project/)[![Download internet-site-id-project](https://img.shields.io/badge/GitHub_Download.tar.gz-OPEN-green.svg)](https://github.com/john3825/internet-site-id-project/tarball/master)[![Download internet-site-id-project](https://img.shields.io/badge/GitHub_Download.zip-OPEN-green.svg)](https://github.com/john3825/internet-site-id-project/zipball/master)
+
+[![Download internet-site-id-project](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/internet-site-id-project/files/latest/download)
+
