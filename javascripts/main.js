@@ -8,7 +8,7 @@ console.log('This would be the main JS file.');
     r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
     a.appendChild(r);
 })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
-var input = document.getElementById("SiteID_Icon");
+var input = iconSiteID.getElementById("SiteID_Icon");
 iconSiteID.addEventListener( "click", (function(){
 window.open("https://john3825.github.io/internet-site-id-project/")
 }));
