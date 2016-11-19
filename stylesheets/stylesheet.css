@@ -56,7 +56,31 @@ input #SiteID {
   background-color: #f2f2f2;
   
 }
-  
+  #SiteID_Icon {
+  background: -webkit-linear-gradient( to right, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.8));
+  background: -moz-linear-gradient( to right, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.8));
+  background: -o-linear-gradient( to right, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.8));
+  background: linear-gradient( to right, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.9));
+  -webkit-transition: background .1s ease-in;
+  -moz-transition: background .1s ease-out;
+  -o-transition: background .1s ease-in;
+  transition: background .7s ease-in;
+  background-size: 200% 200px;
+  background-position: -90px 0px;
+  border-radius: 5px;
+  border: 1px solid black;
+  cursor: pointer;
+  width: 300px;
+  height: 12px;
+}
+
+#SiteID_Icon:Hover {
+  background-position: -100% 0px;
+  transition-property: left, middle, background-position;
+  transition-duration: 1.2s, 0.5s, 0.75s;
+  transition-timing-function: ease-in;
+}
+
 
 /*******************************************************************************
 Theme Styles
