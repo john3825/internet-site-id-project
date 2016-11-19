@@ -47,7 +47,7 @@ table {
 /*******************************************************************************
 CustomTheme Styles
 *******************************************************************************/
-input #SiteID {
+input#SiteID {
   border: 0px none black;
   float: left;
   display: block;
@@ -56,7 +56,7 @@ input #SiteID {
   background-color: #f2f2f2;
   
 }
-  #SiteID_Icon {
+  input#SiteID_Icon {
   background: -webkit-linear-gradient( to right, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.8));
   background: -moz-linear-gradient( to right, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.8));
   background: -o-linear-gradient( to right, rgba(255, 255, 255, 0.1), rgba(255, 255, 255, 0.8));
@@ -74,7 +74,7 @@ input #SiteID {
   height: 12px;
 }
 
-#SiteID_Icon:Hover {
+input#SiteID_Icon:Hover {
   background-position: -100% 0px;
   transition-property: left, middle, background-position;
   transition-duration: 1.2s, 0.5s, 0.75s;
