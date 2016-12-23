@@ -22,7 +22,8 @@ ICANN is aware of internet security. DOD and other agencies are aware of the enc
 ## Volunteers ##
 Internet Site ID Project is recruiting volunteers for the project. Please post message to the comment or e-mail john3825(SYSOP). -- Some experience requested....
 
-Click here to lend your support to: internet-site-id-project and make a donation at pledgie.com !
+
+### Click here to lend your support to: internet-site-id-project and make a donation at pledgie.com ! ###
 [![Donate](https://pledgie.com/campaigns/33130.png?skin_name=chrome)]
 (https://pledgie.com/campaigns/33130)
 
