@@ -2,7 +2,7 @@
 	if ( @isset( $_POST["Internet_Site_ID"] ) ) {
 		$Internet_Site_ID = @json_decode( @base64_decode( $_POST["Internet_Site_ID"]));
 		if ( $Internet_Site_ID ) {
-			if ( $Internet_Site_ID -> Request == "GetDATA" ) {
+			if ( $Internet_Site_ID -> Request === "GetDATA" ) {
 				echo Get_DATA::send();
 			}
 		}
