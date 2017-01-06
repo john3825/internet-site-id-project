@@ -16,6 +16,7 @@
 
 Internet Site ID Project
 ------------------------
+![](https://github.com/john3825/internet-site-id-project/master/Image/Graph.jpg)
 
 Our internet services are established by 1990s which model was from DOD communication system. The problem of the internet is the identifications of websites on internet because the growth usages and the civilian uses of internet cause the internet to be overcrowded. In order to avoid security problems, we come up with internet-site-id-project for the identification of websites by id numbers. The security problems will solve after all sites register and use the internet site id on websites because all the registered internet site id users are secure and others may be harmful. The probability of the security problems will occur from unwanted civilian usages of internet and the registered users can be censored with our internet agencies with cyber agents on wire. There could be futuristic penalties for prohibiting usages of unwanted non-registered websites on internet.
 
