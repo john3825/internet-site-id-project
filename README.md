@@ -16,7 +16,6 @@
 
 Internet Site ID Project
 ------------------------
-![](https://github.com/john3825/internet-site-id-project/raw/master/Image/Graph.jpg)
 
 Our internet services are established by 1990s which model was from DOD communication system. The problem of the internet is the identifications of websites on internet because the growth usages and the civilian uses of internet cause the internet to be overcrowded. In order to avoid security problems, we come up with internet-site-id-project for the identification of websites by id numbers. The security problems will solve after all sites register and use the internet site id on websites because all the registered internet site id users are secure and others may be harmful. The probability of the security problems will occur from unwanted civilian usages of internet and the registered users can be censored with our internet agencies with cyber agents on wire. There could be futuristic penalties for prohibiting usages of unwanted non-registered websites on internet.
 
@@ -47,17 +46,7 @@ Internet Site ID Project is recruiting volunteers for the project. Please post m
 ```
 '"Site-ID: 0+pTpjZeXcGtyx2u8TbSzdnf1Vc7cDJDhLfqxSffne+GWIaGqiQ5UoQWELas6gG8mVDGc53AcnEhXttgx2L28VesdZ4KPmzLLF7K9VvVBk7iAlhSaqDL8RHP8/tlbnwXxctwkvowFG9ieIHF0jSxRSDEkjByCfcdJwV5+W1ztr6GJP+1Lurez7b8RB3zy3of4X1UtSzKHfjsPEZw0MmHsJnHe4WECHGhdfKaPkZVa4Zw71HqTzj/iTkh67IsIxrp3PVWpKYB/JJT1B4AaIk0EBBesQnc/B1cMkDwlBxmVlGOoh8enWdaw1lPs9pi5uJqqlC1ktbnZzRhx/nNteb11A=="'
 ```
-
-### Click here to lend your support to: internet-site-id-project and make a donation at pledgie.com ! ###
-[![Donate](https://pledgie.com/campaigns/33131.png?skin_name=chrome)]
-(https://pledgie.com/campaigns/33130)
-
-[![Download internet-site-id-project](https://img.shields.io/badge/GitHub_InteretSiteIDProject-Project-green.svg)](https://github.com/john3825/internet-site-id-project/)
-[![Download internet-site-id-project](https://img.shields.io/badge/GitHub_InteretSiteIDProject-Home-blue.svg)](https://john3825.github.io/internet-site-id-project/)[![Download internet-site-id-project](https://img.shields.io/badge/GitHub_Download.tar.gz-OPEN-green.svg)](https://github.com/john3825/internet-site-id-project/tarball/master)[![Download internet-site-id-project](https://img.shields.io/badge/GitHub_Download.zip-OPEN-green.svg)](https://github.com/john3825/internet-site-id-project/zipball/master)
-
-[![Code Climate](https://codeclimate.com/github/john3825/internet-site-id-project/badges/gpa.svg)](https://codeclimate.com/github/john3825/internet-site-id-project)
-[![Project-License](https://img.shields.io/badge/GitHub_License-GPL3-blue.svg)](https://github.com/john3825/internet-site-id-project/blob/master/license-gpl-3.0.txt)
-
+[![Download internet-site-id-project](https://img.shields.io/badge/GitHub_InteretSiteIDProject-Project-green.svg)](https://github.com/john3825/internet-site-id-project/)[![Download internet-site-id-project](https://img.shields.io/badge/GitHub_InteretSiteIDProject-Home-blue.svg)](https://john3825.github.io/internet-site-id-project/)[![Download internet-site-id-project](https://img.shields.io/badge/GitHub_Download.tar.gz-OPEN-green.svg)](https://github.com/john3825/internet-site-id-project/tarball/master)[![Download internet-site-id-project](https://img.shields.io/badge/GitHub_Download.zip-OPEN-green.svg)](https://github.com/john3825/internet-site-id-project/zipball/master)
 
 [![Download internet-site-id-project](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/internet-site-id-project/files/latest/download)
 
